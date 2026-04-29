@@ -1,6 +1,6 @@
 # Document Manager - Kotlin Demo
 
-![Kotlin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kotlin_logo_%282016-2021%29.svg/1280px-Kotlin_logo_%282016-2021%29.svg.png)
+![Kotlin logo](https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin.png)
 
 This repository contains a simple demo project for a secure document management API built with Kotlin and Spring Boot. It functions an OAuth 2.0 Resource Server, securing endpoints with JSON Web Tokens (JWTs). The project highlights best practices for configuring JWT validation, including custom audience checks, and mapping JWT claims (scopes, roles, permissions) to Spring Security authorities for fine-grained access control.
 
